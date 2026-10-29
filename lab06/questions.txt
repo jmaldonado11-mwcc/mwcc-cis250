@@ -1,0 +1,8 @@
+1. fgets reads the file line by line and protects against buffer overflows
+2.execvp() only takes argument arrays
+3.fork() returns the value of the PID of the child process(Parent Process), a 0(child process), or -1(fail)
+4. The child process is overwritten and replaced with the new program
+5. To prevent zombie process and run in chronological order
+6. By analyzing the data saved in status. 0 means pass, and anything above means fail.
+7. It should fail and return to the child process. The program still has to report on how things went right/wrong.
+8. Bad tests, massive resource demand, and zombie processes likely leading to a crash, things reporting wrong or everything slowing to a crawl.

@@ -1,0 +1,8 @@
+date
+pwd
+
+# comment
+ls -l
+df -h
+ps -eo pid,ppid,comm
+invalid_test_program

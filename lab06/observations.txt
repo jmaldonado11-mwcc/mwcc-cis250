@@ -1,0 +1,5 @@
+1.Seems to work just fine. Tests run and each command passes so far.
+2.Added a blank line and a line with #comment and it still gives 5 tests 5 passes.
+3.Now displays 6 Tests, 5 Passed, 1 Failed
+4.date now shows up first and passes followed by pwd which also passes verifying the code is following the order of commands
+5.Unable to open tests: No such file or directory.
